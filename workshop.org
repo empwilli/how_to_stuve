@@ -1,0 +1,85 @@
+* Stuve Workshop
+** Titel
+** Ideensammlung
+*** Einführung
+**** Meine Geschichte in der Stuve
+***** FSI Inf
+***** FSV Mitglied
+***** Sprat
+***** Konventsmitglied
+***** LAK Sprecher
+***** fzs-Sitzungen
+***** BuFaTA Informatik (KIF)
+**** Meine Erfahrungen (+ negative Seiten)
+***** Stuve Arbeit faszinierend
+      * Viele neue Leute
+      * Eintauchen in komplett neue Welt
+      * Viele Spannende Themen -> Immer was zu tun = Schnelles Erfolgserlebnis,
+        sieh auch Motivation und Prokrastination
+      * -> Stuve rückt leicht in den Fokus ~ "Ich studiere Stuve", "Ich mach
+        Stuve, nebenbei studier ich"
+***** Erfahrungen aus dem eigenen Studium
+      * Tief im Master
+      * Alle notwendigen Veranstaltungen erledigt, nur noch Masterarbeit stand aus
+      * Stuve als Lückenfüller
+***** Beobachtete Situation in der Stuve
+      * Menschen kommen motiviert in die Stuve
+      * Arbeiten teilweise Tag und Nacht für Themen
+      * Tw. "Wettbewerb" Person X verbringt so und so viel Zeit für die Stuve,
+        das will ich auch
+        * Beispiel Semesterticket
+      * Dann "ausbrennen", Probleme im Studium, ...:
+        * Personen ziehen sich stark zurück
+        * Harter Cut
+        * Keine Mitarbeit mehr
+        * "Selbstschutz"
+**** Arbeitstechniken
+     * Eigen Haltung bis vor kurzem:
+       * "Das ist völlig individuell, solche Ratschläge sind nicht hilfreich"
+       * Wendepunkt: Doktorandenseminar: Wie richtig Promovieren
+*** Ziele
+**** Effizientes angehen von Problemen
+**** Selbstreferenz: Ist meine Fokusierung richtig?
+***** Sowohl für Stuvearbeit
+***** Auch auch fürs Studium
+**** Wie behalte ich den Überblick?
+*** Arbeitsmethoden
+**** Persönlich
+***** Pomodoro
+***** Getting Things Done
+***** Wochenplan
+**** Gruppen
+***** Kanban
+***** Pausen / Sitzungslängen (Weiterführendes Thema, unklar ob mit aufnehmen)
+      * Pausen sind wichtig für Kreativität
+      * Explizit nicht fokusiert denken, lieber Spielzeug (Bälle, Rubics Cube, ...)
+      * Beispiel: Einfälle auf Klo / In der Dusche
+*** Stuve for Nerds
+**** E-Mail (?)
+**** Orgmode für ein besseres Leben
+**** (h)ledger: Accounting für Finanzverwaltung
+*** Motivation, Prokrastination und Arbeitsgedächtnis
+**** Disclaimer
+     * Keinerlei psychologische Ausbildung
+     * Informationen beruhen auf eigenen Erfahrungen + angelesenem (Das was mir
+       logisch erschien)
+**** Arbeitsgedächtnis
+     * Listen sind wichtig und helfen zu fokusieren -> A Mind for numbers
+*** Stuve und Studium
+    * Wichtiger Punkt, darum auch eigene Erfahrungen
+    * Techniken sind übertragbar aufs Studium
+    * Stuve ohne Studium funktioniert nicht: Negativbeispiel: Menschen die zwar
+      Studi-Vertretung machen, aber maximal weit vom Studileben entfernt sind
+    * Studium mit Stuve prokrastinieren
+    * Unter Resourcen auch weiterführende Literatur
+*** Resourcen
+    * The Pomodoro Technique
+    * A Mind for Numbers
+      * Inspiration für Vortrag
+      * Auch richtig gut fürs Studium
+    * Die Macht der Gewohnheit
+*** TODO Übungen / Gruppenfragen
+**** Welche Routinen habt ihr?
+**** Prokrastinationsformen -> Wand
+**** Probleme in eigenen Strukturen identifizieren
+**** Probleme im eigenen Arbeiten identifizieren
