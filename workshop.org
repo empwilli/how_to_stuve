@@ -2,15 +2,15 @@
 ** Titel
 ** Ideensammlung
 *** Einführung
-**** Meine Geschichte in der Stuve
-***** FSI Inf
-***** FSV Mitglied
-***** Sprat
-***** Konventsmitglied
-***** LAK Sprecher
-***** fzs-Sitzungen
-***** BuFaTA Informatik (KIF)
-**** Meine Erfahrungen (+ negative Seiten)
+**** TODO Meine Geschichte in der Stuve
+     * FSI Inf
+     * FSV Mitglied
+     * Sprat
+     * Konventsmitglied
+     * LAK Sprecher
+     * fzs-Sitzungen
+     * BuFaTA Informatik (KIF)
+**** TODO Meine Erfahrungen (+ negative Seiten)
 ***** Stuve Arbeit faszinierend
       * Viele neue Leute
       * Eintauchen in komplett neue Welt
@@ -33,6 +33,9 @@
         * Harter Cut
         * Keine Mitarbeit mehr
         * "Selbstschutz"
+***** Problem: Freizeitstress
+      * Stuve ist Hobby -> Dominiert leicht
+      * Viele Verpflichtungen
 **** Arbeitstechniken
      * Eigen Haltung bis vor kurzem:
        * "Das ist völlig individuell, solche Ratschläge sind nicht hilfreich"
@@ -40,23 +43,46 @@
 *** Ziele
 **** Effizientes angehen von Problemen
 **** Selbstreferenz: Ist meine Fokusierung richtig?
-***** Sowohl für Stuvearbeit
-***** Auch auch fürs Studium
+     * Sowohl für Stuvearbeit
+     * Auch auch fürs Studium
 **** Wie behalte ich den Überblick?
+**** Nicht-Ziele
+     * Wie mache ich Gremienarbeit?
+     * Wie schreibe ich Pressemitteilungen?
+     * Werben für Nachwuchs
+     * Was bedeuten die vielen verschiedenen Begriffe?
+     * Welche wichtige Themen existieren?
 *** Arbeitsmethoden
 **** Persönlich
 ***** Pomodoro
+      * Technik zur Verarbeitung von Tasks
 ***** Getting Things Done
+      * Technik zur Verarbeitung und Verwaltung von Tasks
 ***** Wochenplan
+      * Einplanen von Energiereserven
+      * Langfristig Zeit für wichtige Dinge (Privatleben, Studium, ...)
+***** Journaling
+      * Wichtige Gedanken festhalten und Nachschlagbar halten
+***** Mind Maps
+      * Siehe oben
+***** How to Notizbuch
+      * Bullet Journal http://bulletjournal.com/
 **** Gruppen
 ***** Kanban
+      * Überblick bewaren was ansteht
+      * Engpässe identifizieren, gemeinsam angehen
+      * Definition of Done: Was muss am Ende vorliegen, so dass alle zufrieden
+        sind, was ist das Ziel der Arbeit?
 ***** Pausen / Sitzungslängen (Weiterführendes Thema, unklar ob mit aufnehmen)
       * Pausen sind wichtig für Kreativität
       * Explizit nicht fokusiert denken, lieber Spielzeug (Bälle, Rubics Cube, ...)
       * Beispiel: Einfälle auf Klo / In der Dusche
 *** Stuve for Nerds
 **** E-Mail (?)
+     * Viele E-Mails, wie damit umgehen?
 **** Orgmode für ein besseres Leben
+     * Umsetzung der obigen Techniken
+     * Eigenes Journal führen
 **** (h)ledger: Accounting für Finanzverwaltung
 *** Motivation, Prokrastination und Arbeitsgedächtnis
 **** Disclaimer
